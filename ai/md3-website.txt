@@ -1,4 +1,4 @@
-遵守 Material Design 3 设计规范
+遵守 Material Design 设计规范，使用 mdui 前端框架，使用 react + vite 的方案
 完成一个静态网页，要求编译输出的 dist 能够部署到 GitHub Pages，且符合 GitHub Pages 免费版的用户规范
 同时我会使用 cloudflare 的免费 cdn 输出的 dist 也要同时符合 cloudflare 对于免费用户的限制
 不要创建 GitHub 的 CI，我自己处理项目部署到 github pages 的问题
