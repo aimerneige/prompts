@@ -3,9 +3,12 @@
 同时我会使用 cloudflare 的免费 cdn 输出的 dist 也要同时符合 cloudflare 对于免费用户的限制
 不要创建 GitHub 的 CI，我自己处理项目部署到 github pages 的问题
 使用 npm 作为主要的包管理器，不要使用 pnpm 或 yarn 等工具
+网页要支持切换亮色、暗色双色主题
+网页恰当位置要添加一个 github logo 指向代码仓库 https://github.com/aimerneige/example-website（这个链接是一个示例，仓库不存在你也不用创建，我负责 push 代码，链接我会手动修改，你直接用这个链接就行）
+目标站点是 https://exchange.aimer.moe
+记得在 public 下加 CNAME
+
 主要的功能是:
 
 
 
-目标站点是 https://exchange.aimer.moe
-记得在 public 下加 CNAME
