@@ -1,0 +1,11 @@
+遵守 Material Design 3 设计规范
+完成一个静态网页，要求编译输出的 dist 能够部署到 GitHub Pages，且符合 GitHub Pages 免费版的用户规范
+同时我会使用 cloudflare 的免费 cdn 输出的 dist 也要同时符合 cloudflare 对于免费用户的限制
+不要创建 GitHub 的 CI，我自己处理项目部署到 github pages 的问题
+使用 npm 作为主要的包管理器，不要使用 pnpm 或 yarn 等工具
+主要的功能是:
+
+
+
+目标站点是 https://exchange.aimer.moe
+记得在 public 下加 CNAME
